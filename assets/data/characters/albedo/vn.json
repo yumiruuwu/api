@@ -12,7 +12,7 @@
     {
       "name": "Tây Phong Kiếm Thuật - Bạch",
       "unlock": "Tấn Công Thường",
-      "description": "Tấn công thường\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\nTrọng kích\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\nTấn công khi đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+      "description": "Tấn Công Thường\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\nTrọng Kích\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "type": "NORMAL_ATTACK"
     },
     {
