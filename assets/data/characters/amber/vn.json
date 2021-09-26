@@ -13,92 +13,92 @@
   "description": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ.",
   "skillTalents": [
     {
-      "name": "Sharpshooter",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG.\n\nWhile aiming, flames accumulates on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.\nPlunging Attack\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "name": "Xạ Thủ Thần",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 5 lần bắn tên liên tiếp.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\n\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây Sát Thương Nguyên Tố Hỏa.\nTấn Công Khi Đáp\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương bắn lần 1",
           "value": "36.1%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát thương bắn lần 2",
           "value": "36.1%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát thương bắn lần 3",
           "value": "46.4%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát thương bắn lần 4",
           "value": "47.3%"
         },
         {
-          "name": "5-Hit DMG",
+          "name": "Sát thương bắn lần 5",
           "value": "59.3%"
         },
         {
-          "name": "Aimed Shot",
+          "name": "Sát thương ngắm bắn",
           "value": "43.9%"
         },
         {
-          "name": "Fully-Charged Aimed Shot",
+          "name": "Sát thương trọng kích",
           "value": "124%"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát thương khi đáp",
           "value": "56.8%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "Sát thương khi đáp từ độ thấp / cao",
           "value": "114% / 142%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Explosive Puppet",
-      "unlock": "Elemental Skill",
-      "description": "Baron Bunny\n\nContinuously taunts the enemy, drawing their fire.\nBaron Bunny's HP scales with Amber's Max HP.\nWhen destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.\n\nHold\nAdjusts the throwing direction of Baron Bunny.\n\nThe longer the button is held, the further the throw.",
+      "name": "Con Rối Nổ",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Bá Tước Thỏ\n\nKhiêu khích địch xung quanh, thu hút hỏa lực.\nĐộ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định.\nNếu bị phá hủy hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây Sát Thương Phạm Vi Nguyên Tố Hỏa.\n\nNhấn Giữ\nĐiều chỉnh hướng ném. Khoảng cách ném sẽ tăng theo thời gian nhấn giữ.",
       "upgrades": [
         {
-          "name": "Inherited HP",
+          "name": "Độ Bền Kế Thừa",
           "value": "41.4%"
         },
         {
-          "name": "Explosion DMG",
+          "name": "Sát Thương Nổ",
           "value": "123%"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi Kỹ Năng",
           "value": "15s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Fiery Rain",
-      "unlock": "Elemental Burst",
-      "description": "Fires of a shower of arrows, dealing continuous AoE Pyro DMG.",
+      "name": "Mưa Tên",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Bắn ra cơn mưa tên lửa, duy trì gây Sát Thương Phạm Vi Nguyên Tố Hỏa.",
       "upgrades": [
         {
-          "name": "Fiery Rain DMG Per Wave",
+          "name": "Sát Thương Mỗi Đợt Mưa Tên Lửa",
           "value": "28.1%"
         },
         {
-          "name": "Total Fiery Rain DMG",
+          "name": "Tổng Sát Thương Mưa Tên Lửa",
           "value": "505%"
         },
         {
-          "name": "Duration",
+          "name": "Thời Hạn",
           "value": "2s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi Kỹ Năng",
           "value": "12s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Tiêu Thụ",
           "value": "40"
         }
       ],
@@ -107,58 +107,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Every Arrow Finds Its Target",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.",
+      "name": "Bách Phát Bách Trúng",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Tỷ lệ bạo kích Mưa Tên tăng 10%, phạm vi ảnh hưởng tăng 30%.",
       "level": 1
     },
     {
-      "name": "Precise Shot",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Aimed Shot hits on weak spots increase Base ATK by 15% for 10s.",
+      "name": "Bắn Áp Chế",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Khi Nhắm Bắn trúng nhược điểm,chỉ số tấn công tăng 15%, kéo dài trong 10s.",
       "level": 4
     },
     {
-      "name": "Gliding Champion",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party members' gliding Stamina Consumption by 20%.\nThe greatest effect out of all Talents of the same type prevails."
+      "name": "Quán Quân Bay Lượn",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn. Đối với buff Thiên Phú Cố Định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
     }
   ],
   "constellations": [
     {
-      "name": "One Arrow to Rule Them All",
-      "unlock": "Constellation Lv. 1",
-      "description": "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.",
+      "name": "Bắn Một Được Hai Hilichurl!",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Khi Nhắm Bắn sẽ bắn ra 2 mũi tên liên tiếp. Mũi tên thứ hai tạo ra 20% sát thương so với sát thương gốc..",
       "level": 1
     },
     {
-      "name": "Bunny Triggered",
-      "unlock": "Constellation Lv. 2",
-      "description": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+      "name": "Thỏ Xông Lên",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Bá Tước Thỏ bản cải tiến! Khi hoàn thành tụ lực nhắm bắn trúng chân Bá Tước Thỏ, sẽ gây nổ ngay.\nChủ động làm nổ Bá Tước Thỏ, sẽ gây thêm 200% sát thương.",
       "level": 2
     },
     {
-      "name": "It Burns!",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Fiery Rain by 3.\nMaximum upgrade level is 15.",
+      "name": "Cháy Lên Nào!",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Mưa Tên +3.\nTăng nhiều nhất 15 cấp.",
       "level": 3
     },
     {
-      "name": "It's Not Just Any Doll...",
-      "unlock": "Constellation Lv. 4",
-      "description": "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.",
+      "name": "Không Phải Con Rối Thường",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Sát thương chí mạng của Con Rối Nổ giảm 20%, và tăng thêm 1 lần sử dụng.",
       "level": 4
     },
     {
-      "name": "It's Baron Bunny!",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Explosive Puppet by 3.\nMaximum upgrade level is 15.",
+      "name": "Là Bá Tước Thỏ!",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Con Rối Nổ +3.\nTăng nhiều nhất 15 cấp.",
       "level": 5
     },
     {
-      "name": "Wildfire",
+      "name": "Nhanh Như Lửa",
       "unlock": "Constellation Lv. 6",
-      "description": "Fiery Rain increases Amber's Movement SPD by 15% and Base ATK by 15% for 10s.",
+      "description": "Sau khi sử dụng Mưa Tên, 10s tiếp theo tăng 15% tốc độ di chuyển của tất cả thành viên trong đội, tấn công căn bản tăng 15%.",
       "level": 6
     }
   ],
