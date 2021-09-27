@@ -15,83 +15,83 @@
       "description": "Tấn Công Thường\nThực hiện tối đa 4 lần tấn công hoa nước, gây Sát Thương Nguyên Tố Thủy.\nTrọng Kích\nTiêu hao thể lực nhất định, sau tiếng ngân, gây Sát Thương Nguyên Tố Thủy.\nTấn công khi đáp\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, gây sát thương phạm vi Nguyên Tố Thủy cho tất cả kẻ địch trên đường.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Tấn Công Lần 1",
           "value": "37.8%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Tấn Công Lần 2",
           "value": "35.5%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Tấn Công Lần 3",
           "value": "41%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Tấn Công Lần 4",
           "value": "55.2%"
         },
         {
-          "name": "Charged Attack DMG",
+          "name": "Sát Thương Trọng Kích",
           "value": "166%"
         },
         {
-          "name": "Charged Attack Stamina Cost",
+          "name": "Thể Lực Tiêu Hao Khi Trọng Kích",
           "value": "50"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Tấn Công Khi Đáp",
           "value": "56.8%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "Sát Thương Tấn Công Khi Đáp Từ Độ Thấp / Cao",
           "value": "114% / 142%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Let the Show Begin",
-      "unlock": "Elemental Skill",
-      "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding enemies and afflicting them with the Wet status.\nMelody Loop\n\nBarbara's Normal Attacks heal all party members and nearby allied characters for a certain amount of HP, which scales with Barbara's Max HP.\nHer Charged Attack generates 4 times the amount of healing.\nRegenerates a certain amount of the current character's HP at regular intervals.\nApplies the Wet status to the character and enemies who come in contact with them.\n",
+      "name": "Buổi Diễn, Bắt Đầu♪",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh Sát Thương Nguyên Tố Thủy, và thi triển trạng thái Ẩm Ướt.\nVòng Âm Thanh\n\nKhi Barbara tấn công thường trúng địch, thì cả đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara\nKhi trọng kích trúng, có thể hồi x4\nMỗi một khoảng thời gian, sẽ hồi HP cho nhân vật hiện tại\nThi triển trạng thái Ẩm Ướt cho nhân vật và địch có tiếp xúc.\n",
       "upgrades": [
         {
-          "name": "HP Regeneration Per Hit",
+          "name": "Lượng HP Hồi Mỗi Lần Tấn Công",
           "value": "0.75% Max HP + 72"
         },
         {
-          "name": "Continuous Regeneration",
+          "name": "Hồi Liên Tục",
           "value": "4% Max HP + 385"
         },
         {
-          "name": "Droplet DMG",
+          "name": "Sát Thương Nhỏ Giọt",
           "value": "58.4%"
         },
         {
-          "name": "Duration",
+          "name": "Thời Hạn",
           "value": "15s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "32s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Shining Miracle",
-      "unlock": "Elemental Burst",
-      "description": "Heals friendly forces and all parties for a large amount of HP that scales with Barbara's Max HP.",
+      "name": "Kỳ Tích Vinh Diệu♪",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Hồi lượng lớn HP cho đồng đội ở gần và tất cả nhân vật trong đội, lượng hồi phụ thuộc vào giới hạn HP của Barbara.",
       "upgrades": [
         {
-          "name": "Healing Amount",
+          "name": "Lượng HP Hồi",
           "value": "17.6% Max HP + 1694"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "20s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Tiêu Hao",
           "value": "80"
         }
       ],
@@ -100,58 +100,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Glorious Season",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "The Stamina Consumption of characters within Let the Show Begin's Melody Loop is reduced by 12%.",
+      "name": "Mùa Huy Hoàng",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Khi nhân vật đang trong vòng âm thanh của Buổi Diễn, Bắt Đầu♪, giảm 12% thể lực tiêu hao.",
       "level": 1
     },
     {
-      "name": "Encore",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When a character gains an Elemental Orb/Particle, the duration of Let the Show Begin's Melody Loop is extended by 1s.\nThe maximum extension is 5s.",
+      "name": "Lập Lại",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Khi nhân vật nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của Buổi Diễn, Bắt Đầu♪ sẽ kéo dài thêm 1s.\nBằng cách này có thể kéo dài nhiều nhất 5s.",
       "level": 4
     },
     {
-      "name": "With My Whole Heart",
-      "unlock": "Unlocked Automatically",
-      "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
+      "name": "Tập Trung Ý Chí",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Nấu Hoàn Mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
     }
   ],
   "constellations": [
     {
-      "name": "Gleeful Songs",
-      "unlock": "Constellation Lv. 1",
-      "description": "Barbara regenerates 1 Energy every 10s.",
+      "name": "Ca Dao Sắc Màu",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Cứ 10s sẽ hồi phục 1 điểm năng lượng Nguyên Tố cho Barbara.",
       "level": 1
     },
     {
-      "name": "Vitality Burst",
-      "unlock": "Constellation Lv. 2",
-      "description": "Decreases the CD of Let the Show Begin by 15%.\nDuring the ability's duration, the current character gains 15% Hydro DMG Bonus.",
+      "name": "Bùng Nổ Nguyên Khí",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Thời gian hồi của Buổi Diễn, Bắt Đầu♪ giảm 15%;\nTrong thời gian kỹ năng tồn tại,Sát Thương Nguyên Tố Thủy của nhân vật tăng 15%.",
       "level": 2
     },
     {
-      "name": "Star of Tomorrow",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Shining Miracle by 3.\nMaximum upgrade level is 15.",
+      "name": "Ngôi Sao Ngày Mai",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Kỳ Tích Vinh Diệu♪ +3.\nTăng nhiều nhất 15 cấp.",
       "level": 3
     },
     {
-      "name": "Attentiveness be My Power",
-      "unlock": "Constellation Lv. 4",
-      "description": "Every enemy hit by Barbara's Charged Attack regenerates 1 Energy for her. A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.",
+      "name": "Nỗ Lực Là Ma Thuật",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Khi Barbara dùng Trọng Kích, mỗi khi đánh trúng 1 kẻ địch, sẽ hồi phục 1 điểm năng lượng nguyên tố. Tối đa hồi 5 điểm Năng Lượng Nguyên Tố.",
       "level": 4
     },
     {
-      "name": "The Purest Companionship",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Let the Show Begin by 3.\nMaximum upgrade level is 15.",
+      "name": "Liên Kết Thuần Khiết",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Buổi Diễn, Bắt Đầu♪ +3.\nTăng nhiều nhất 15 cấp.",
       "level": 5
     },
     {
-      "name": "Dedicating Everything to You",
-      "unlock": "Constellation Lv. 6",
-      "description": "When Barbara is not on the field, and the character in play falls:\nAutomatically revives this character.\nFully regenerates this characters HP by 100%.\nThis effect can only occur once every 15 mins.",
+      "name": "Dành Cho Em Thứ Tốt Đẹp Nhất",
+      "unlock": "Cung Mệnh Tầng 6",
+      "description": "Khi Barbara ở trạng thái chờ, nếu có nhân vật trong đội ngã xuống sẽ lập tức:\nHồi sinh nhân vật đó.\nHồi phục 100% HP cho nhân vật.\nHiệu quả này mỗi 15 phút chỉ thi triển một lần.",
       "level": 6
     }
   ],
