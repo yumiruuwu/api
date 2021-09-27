@@ -1,18 +1,18 @@
 {
   "name": "Barbara",
-  "vision": "Hydro",
-  "weapon": "Catalyst",
+  "vision": "Thuỷ",
+  "weapon": "Pháp Khí",
   "nation": "Mondstadt",
-  "affiliation": "Church of Favonius",
+  "affiliation": "Giáo Hội Tây Phong",
   "rarity": 4,
-  "constellation": "Crater",
+  "constellation": "Kim Bôi",
   "birthday": "0000-07-05",
-  "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
+  "description": "Mọi người trong thành Mondstadt đều yêu quý Barbara. Từ \"Thần Tượng\" là do cô đọc được từ một cuốn tạp chí.",
   "skillTalents": [
     {
-      "name": "Whisper of Water",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerform up to 4 water splashes attacks that deal Hydro DMG.\nCharged Attack\nConsumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.\nPlunging Attack\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all enemies in her path. Deals AoE Hydro DMG upon impact with the ground.",
+      "name": "Giọng Ca Của Nước",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 4 lần tấn công hoa nước, gây Sát Thương Nguyên Tố Thủy.\nTrọng Kích\nTiêu hao thể lực nhất định, sau tiếng ngân, gây Sát Thương Nguyên Tố Thủy.\nTấn công khi đáp\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, gây sát thương phạm vi Nguyên Tố Thủy cho tất cả kẻ địch trên đường.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
