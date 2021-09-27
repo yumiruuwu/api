@@ -1,18 +1,18 @@
 {
   "name": "Chongyun",
-  "vision": "Cryo",
-  "weapon": "Claymore",
+  "vision": "Băng",
+  "weapon": "Trọng Kiếm",
   "nation": "Liyue",
-  "affiliation": "Liyue Harbor",
+  "affiliation": "Cảng Liyue",
   "rarity": 4,
   "constellation": "Nubis Caesor",
   "birthday": "0000-09-07",
-  "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+  "description": "Phương sĩ trẻ tuổi thuộc gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân.",
   "skillTalents": [
     {
-      "name": "Demonbane",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous swirling attacks against all nearby enemies.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "name": "Bốn Cách Diệt Tà",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 4 lần chém liên tiếp.\nTrọng Kích\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\n\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
