@@ -71,27 +71,27 @@
           "value": "14.4% Max HP + 1386"
         },
         {
-          "name": "Base DMG",
+          "name": "Sát Thương Cơ Bản",
           "value": "122%"
         },
         {
-          "name": "DMG Bonus on Hit Taken",
+          "name": "Tăng Sát Thương Gây Ra Khi Nhận Sát Thương",
           "value": "160%"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "7.5s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Stormbreaker",
-      "unlock": "Elemental Burst",
-      "description": "Recalling her slaying of the great beast Haishan. Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself.\nThunderbeast's Target\n\nWhen Normal and Charged Attacks hit, they create a lightning discharge that can jump between enemies, dealing Electro DMG.\nIncreases the character's resistance to interruption, and decreases DMG taken.\n",
+      "name": "Chước Lôi",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Nhớ lại trận chiến diệt Cự Thú Hải Sơn, triệu hồi cự thú và sức mạnh lôi điện, tạo ra Khiên Lôi Thú bao quanh, đồng thời gây sát thương Nguyên Tố Lôi cho kẻ địch xung quanh.\nKhiên Lôi Thú\n\nKhi tấn công thường và trọng kích đánh trúng địch, giải phóng sức mạnh sấm sét, tạo 1 tia sét chạy giữa địch, gây sát thương Nguyên Tố Lôi\nTăng khả năng kháng gián đoạn của nhân vật và giảm sát thương phải chịu.\n",
       "upgrades": [
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "122%"
         },
         {
@@ -103,15 +103,15 @@
           "value": "20%"
         },
         {
-          "name": "Duration",
+          "name": "Thời Lượng",
           "value": "15s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "20s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Tiêu Thụ",
           "value": "80"
         }
       ],
@@ -120,58 +120,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Retribution",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.",
+      "name": "Hào Quang Rực Rỡ",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Khi Bắt Sóng phản đòn vào đúng lúc nhân vật bị tấn công, sẽ tăng sát thương lên cao nhất.",
       "level": 1
     },
     {
-      "name": "Leviathan's Protection",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:\nDMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\nGreatly reduced delay before unleashing Charged Attacks.",
+      "name": "Sấm Sét Đầy Trời",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Trong 10s sau khi thi triển Bắt Sóng tăng sát thương lên cao nhất, nhận được hiệu quả như sau:\nSát thương trọng kích và tấn công thường tạo thành tăng 15%, tốc độ tấn công tăng 15%.\nGiảm thời gian chuẩn bị cần thiết cho trọng kích.",
       "level": 4
     },
     {
-      "name": "Conqueror of Tides",
-      "unlock": "Unlocked Automatically",
-      "description": "Decreases all party member's swimming Stamina consumption by 20%."
+      "name": "Sóng Vỗ Dào Dạt",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân."
     }
   ],
   "constellations": [
     {
-      "name": "Sea Beast's Scourge",
-      "unlock": "Constellation Lv. 1",
-      "description": "When Stormbreaker is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs Electro DMG 250% more effectively.",
+      "name": "Ngư Long Trầm Tứ Phương",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Khi thi triển Chước Lôi\nHình thành tấm khiên hấp thu sát thương tương đương với 16% giới hạn HP, kéo dài 15s.\nKhiên có hiệu quả hấp thụ 250% sát thương Nguyên Tố Lôi.",
       "level": 1
     },
     {
-      "name": "Upon the Turbulent Sea, the Thunder Arises",
-      "unlock": "Constellation Lv. 2",
-      "description": "Stormbreaker's arc lightning can jump 2 additional targets.",
+      "name": "Khúc Ngẫu Hứng Mở Màn",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Sấm sét của Chước Lôi có thể đánh bật thêm 2 kẻ địch.",
       "level": 2
     },
     {
-      "name": "Summoner of Storm",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Tidecaller by 3.\nMaximum upgrade level is 15.",
+      "name": "Phương Pháp Phân Giải",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Bắt Sóng +3.\nTăng nhiều nhất 15 cấp.",
       "level": 3
     },
     {
-      "name": "Stunning Revenge",
-      "unlock": "Constellation Lv. 4",
-      "description": "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.",
+      "name": "Sao Trời Dẫn Lối",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Trong vòng 10s sau khi bị tấn công, tấn công thường của Beidou tăng thêm 20% sát thương Nguyên Tố Lôi.",
       "level": 4
     },
     {
-      "name": "Crimson Tidewalker",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Stormbreaker by 3.\nMaximum upgrade level is 15.",
+      "name": "Đạp Lãng Liên Cấp",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Chước Lôi +3.\nTăng nhiều nhất 15 cấp.",
       "level": 5
     },
     {
-      "name": "Bane of Evil",
-      "unlock": "Constellation Lv. 6",
-      "description": "During the duration of Stormbreaker, the Electro RES of surrounding enemies is decreased by 15%.",
+      "name": "Beidou Diệt Ác",
+      "unlock": "Cung Mệnh Tầng 6",
+      "description": "Trong thời gian Chước Lôi tồn tại, kháng Nguyên Tố Lôi của địch xung quanh giảm 15%.",
       "level": 6
     }
   ],
