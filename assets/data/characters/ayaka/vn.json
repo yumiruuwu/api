@@ -1,117 +1,117 @@
 {
     "name": "Kamisato Ayaka",
-    "vision": "Cryo",
-    "weapon": "Sword",
+    "vision": "Băng",
+    "weapon": "Kiếm đơn",
     "nation": "Inazuma",
-    "affiliation": "Yashiro Commission",
+    "affiliation": "Hiệp Hội Yashiro",
     "rarity": 5,
-    "constellation": "Grus Nivis",
+    "constellation": "Cung Tuyết Hạc",
     "birthday": "0000-09-28",
-    "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "description": "Đại tiểu thư nhà Kamisato thuộc Hiệp Hội Yashiro. Đoan trang thanh lịch, thông minh và mạnh mẽ.",
     "skillTalents": [
       {
-        "name": "Kamisato Art - Kabuki",
-        "unlock": "Normal Attack",
-        "description": "Normal Attack\nPerforms up to 5 rapid strikes.\nCharged Attack\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+        "name": "Trường Phái Kamisato - Naname",
+        "unlock": "Tấn Công Thường",
+        "description": "Tấn Công Thường\nThực hiện tối đa 5 lần chém liên tiếp.\nTrọng Kích\nTiêu hao thể lực nhất định, liên tiếp phóng ra kiếm gió ở chính giữa.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
         "upgrades": [
           {
-            "name": "1-Hit DMG",
+            "name": "Sát Thương Chém Lần 1",
             "value": "45.7%"
           },
           {
-            "name": "2-Hit DMG",
+            "name": "Sát Thương Chém Lần 2",
             "value": "48.7%"
           },
           {
-            "name": "3-Hit DMG",
+            "name": "Sát Thương Chém Lần 3",
             "value": "62.6%"
           },
           {
-            "name": "4-Hit DMG",
+            "name": "Sát Thương Chém Lần 4",
             "value": "22.6% x 3"
           },
           {
-            "name": "5-Hit DMG",
+            "name": "Sát Thương Chém Lần 5",
             "value": "78.2%"
           },
           {
-            "name": "Charged Attack DMG",
+            "name": "Sát Thương Trọng Kích",
             "value": "55.1% x 3"
           },
           {
-            "name": "Charged Attack Stamina Cost",
+            "name": "Thể Lực Tiêu Hao Khi Trọng Kích",
             "value": "20"
           },
           {
-            "name": "Plunge DMG",
+            "name": "Sát Thương Tấn Công Khi Đáp",
             "value": "64%"
           },
           {
-            "name": "Low / High Plunge DMG",
+            "name": "Sát Thương Tấn Công Từ Độ Thấp / Cao",
             "value": "128% / 160%"
           }
         ],
         "type": "NORMAL_ATTACK"
       },
       {
-        "name": "Kamisato Art: Hyouka",
-        "unlock": "Elemental Skill",
-        "description": "Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.",
+        "name": "Trường Phái Kamisato - Hyouka",
+        "unlock": "Kỹ Năng Nguyên Tố",
+        "description": "Đánh thức đóa hoa băng nở rộ, đánh bay kẻ địch bên cạnh và gây sát thương phạm vi Nguyên Tố Băng.",
         "upgrades": [
           {
-            "name": "Skill DMG",
+            "name": "Sát Thương Kỹ Năng",
             "value": "239%"
           },
           {
-            "name": "CD",
+            "name": "Thời Gian Hồi",
             "value": "10s"
           }
         ],
         "type": "ELEMENTAL_SKILL"
       },
       {
-        "name": "Kamisato Art: Soumetsu",
-        "unlock": "Elemental Burst",
-        "description": "Summons forth a snowstorm with flawless poise, unleasing a Frostflake Seki no To that moves forward continously.\nFrostflake Seki no To\nA storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.\nThe snowstorm explodes after its duration ends, dealing AoE Cryo DMG.",
+        "name": "Trường Phái Kamisato - Soumetsu",
+        "unlock": "Kỹ Năng Nộ",
+        "description": "Triệu hồi băng giá với dáng vẻ hoàn hảo, thi triển Cổng Băng Tuyết liên tục về phía trước.\nCổng Băng Tuyết\nDùng gió tuyết sắc như đao nhọn chém liên tục vào kẻ địch tiếp xúc, gây sát thương Nguyên Tố Băng\nKhi hết thời gian sẽ bung tỏa, gây sát thương phạm vi Nguyên Tố Băng.",
         "upgrades": [
           {
-            "name": "Cutting DMG",
+            "name": "Sát Thương Chém",
             "value": "112%"
           },
           {
-            "name": "Bloom DMG",
+            "name": "Sát Thương Bung Toả",
             "value": "168%"
           },
           {
-            "name": "Duration",
+            "name": "Thời Hạn",
             "value": "5s"
           },
           {
-            "name": "CD",
+            "name": "Thời Gian Hồi",
             "value": "20s"
           },
           {
-            "name": "Energy Cost",
+            "name": "Năng Lượng Tiêu Thụ",
             "value": "80"
           }
         ],
         "type": "ELEMENTAL_BURST"
       },
       {
-        "name": "Kamisato Art: Senho",
-        "unlock": "Right Click",
-        "description": "Alternate Spirit\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\nAyaka unleashes frigid energy to apply Cryo on nearby opponents.\nColdness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.",
+        "name": "Trường Phái Kamisato - Senho",
+        "unlock": "Thay Thế Xung Kích",
+        "description": "Linh Hồn Thay Thế\nẨn vào vụn băng, tiêu hao thể lực để hóa thành dòng chảy cực nhanh.\n\nỞ trạng thái Senho, Kamisato Ayaka có thể di chuyển nhanh trên mặt nước.\nKhi dừng trạng thái Senho và hiện thân, sẽ sinh ra hiệu quả sau:\nThi triển sức mạnh hàn băng, đính kèm Nguyên Tố Băng lên kẻ địch xung quanh\nNgưng tụ khí lạnh trên kiếm, khiến Kamisato Ayaka nhận Nguyên Tố Băng đính kèm trong thời gian ngắn.",
         "upgrades": [
           {
-            "name": "Activation Stamina Consumption",
+            "name": "Thể Lực Tiêu Hao Khi Thi Triển",
             "value": "10"
           },
           {
-            "name": "Stamina Drain",
+            "name": "Mức Tiêu Hao Thể Lực",
             "value": "15/s"
           },
           {
-            "name": "Infusion Duration",
+            "name": "Thời Gian Ngưng Tụ",
             "value": "5s"
           }
         ]
@@ -119,62 +119,61 @@
     ],
     "passiveTalents": [
       {
-        "name": "Amatsumi Kunitsumi Sanctification",
-        "unlock": "Unlocked at Ascension 1",
-        "description": "After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged attacks deal 30% increased DMG for 6s.",
+        "name": "Amatsumi Kunitsumi Ihahigoto",
+        "unlock": "Nội Tại Đột Phá Đầu Tiên",
+        "description": "Trong vòng 6s sau khi thi triển Trường Phái Kamisato - Hyouka, sát thương gây ra bởi tấn công thường và trọng kích của Kamisato Ayaka tăng 30%.",
         "level": 1
       },
       {
-        "name": "Kanten Senmyou Blessing",
-        "unlock": "Unlocked at Ascension 4",
-        "description": "When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects:\nRestores 10 Stamina\nGains 18% Cryo DMG Bonus for 10s.",
+        "name": "Kanten Senmyou Norito",
+        "unlock": "Nội Tại Đột Phá Thứ Tư",
+        "description": "Khi Trường Phái Kamisato - Senho kết thúc sẽ thi triển hàn băng, nếu đánh trúng địch, Kamisato Ayaka sẽ nhận hiệu quả sau:\nHồi 10 điểm thể lực\nNhận 18% buff sát thương Nguyên Tố Băng, duy trì 10s.",
         "level": 4
       },
       {
-        "name": "Fruits of Shinsa",
-        "unlock": "Unlocked Automatically",
-        "description": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
+        "name": "Bí Kíp Kiểm Tra",
+        "unlock": "Nội Tại Cố Định",
+        "description": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
       }
     ],
     "constellations": [
       {
-        "name": "Snowswept Sakura",
-        "unlock": "Constellation Lv. 1",
-        "description": "When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it has a 50% chance of decreasing the CD of Kamisato Art: Hyouka by 0.3s. This effect can occur once every 0.1s.",
+        "name": "Anh Đào Sương Giá",
+        "unlock": "Cung Mệnh Tầng 1",
+        "description": "Khi tấn công thường hoặc trọng kích của Kamisato Ayaka gây sát thương Nguyên Tố Băng cho địch, có 50% tỷ lệ giảm 0.3s CD của Trường Phái Kamisato - Hyouka. Hiệu quả này mỗi 0.1s chỉ kích hoạt 1 lần.",
         "level": 1
       },
       {
-        "name": "Blizzard Blade Seki no To",
-        "unlock": "Constellation Lv. 2",
-        "description": "When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.",
+        "name": "Tam Trùng Tuyết Môn",
+        "unlock": "Cung Mệnh Tầng 2",
+        "description": "Khi thi triển Trường Phái Kamisato - Soumetsu sẽ thi triển thêm 2 Cổng Băng Tuyết với quy mô rất nhỏ, mỗi cổng gây sát thương bằng 20% sát thương ban đầu.",
         "level": 2
       },
       {
-        "name": "Frostbloom Kamifubuki",
-        "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Kamisato Art: Soumetsu by 3.\nMaximum upgrade level is 15.",
+        "name": "Bạch Hoa Cẩm Họa",
+        "unlock": "Cung Mệnh Tầng 3",
+        "description": "Cấp kỹ năng Trường Phái Kamisato - Soumetsu +3.\nTăng nhiều nhất 15 cấp.",
         "level": 3
       },
       {
-        "name": "Ebb and Flow",
-        "unlock": "Constellation Lv. 4",
-        "description": "Opponents damaged by Kamisato Art: Soumetsu's Frostflake Seki no To will have their DEF decreased by 30% for 6s.",
+        "name": "Doanh Khuyết Lưu Phản",
+        "unlock": "Cung Mệnh Tầng 4",
+        "description": "Sau khi kẻ địch chịu sát thương do Cổng Băng Tuyết của Trường Phái Kamisato - Soumetsu gây ra, phòng ngự của địch sẽ giảm 30%, kéo dài 6s.",
         "level": 4
       },
       {
-        "name": "Blossom Cloud Irutsuki",
-        "unlock": "Constellation Lv. 5",
-        "description": "Increases the Level of Kamisato Art: Hyouka by 3.\nMaximum upgrade level is 15.",
+        "name": "Hoa Vân Chung Nhập Nguyệt",
+        "unlock": "Cung Mệnh Tầng 5",
+        "description": "Cấp kỹ năng Trường Phái Kamisato - Hyouka +3.\nTăng nhiều nhất 15 cấp.",
         "level": 5
       },
       {
-        "name": "Dance of Suigetsu",
-        "unlock": "Constellation Lv. 6",
-        "description": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.  ",
+        "name": "Gian Thủy Nguyệt",
+        "unlock": "Cung Mệnh Tầng 6",
+        "description": "Mỗi 10s, Kamisato Ayaka sẽ nhận được Usurahi Butou, khiến sát thương trọng kích gây ra tăng 298%. Hiệu quả Usurahi Butou sẽ mất sau 0.5s trọng kích trúng kẻ địch, và bắt đầu tính giờ lại.",
         "level": 6
       }
     ],
     "vision_key": "CRYO",
     "weapon_type": "SWORD"
   }
-  
