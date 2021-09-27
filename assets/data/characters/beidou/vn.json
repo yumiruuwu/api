@@ -1,73 +1,73 @@
 {
   "name": "Beidou",
-  "vision": "Electro",
-  "weapon": "Claymore",
+  "vision": "Lôi",
+  "weapon": "Trọng Kiếm",
   "nation": "Liyue",
-  "affiliation": "The Crux",
+  "affiliation": "Đội thuyền Nam Thập Tự",
   "rarity": 4,
-  "constellation": "Victor Mare",
+  "constellation": "Nam Thiên Hải Sơn",
   "birthday": "0000-02-14",
-  "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+  "description": "Thủ lĩnh đội thuyền vũ trang \"Nam Thập Tự\", là chị đại hào sảng.",
   "skillTalents": [
     {
-      "name": "Oceanborne",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 successive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "name": "Đại Dương",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 5 lần chém liên tiếp.\nTrọng Kích\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\n\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Chém Lần 1",
           "value": "71.1%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Chém Lần 2",
           "value": "70.9%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Chém Lần 3",
           "value": "88.3%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Chém Lần 4",
           "value": "86.5%"
         },
         {
-          "name": "5-Hit DMG",
+          "name": "Sát Thương Chém Lần 5",
           "value": "112%"
         },
         {
-          "name": "Charged Attack Spinning DMG",
+          "name": "Sát Thương Trọng Kích Mỗi Lần Chém",
           "value": "56.2%"
         },
         {
-          "name": "Charged Attack Final DMG",
+          "name": "Sát Thương Trọng Kích Lần Chém Cuối Cùng",
           "value": "102%"
         },
         {
-          "name": "Charged Attack Stamina Cost",
+          "name": "Thể Lực Tiêu Hao Khi Trọng Kích",
           "value": "40/s"
         },
         {
-          "name": "Max Duration",
+          "name": "Thời Lượng Tối Đa",
           "value": "5s"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Tấn Công Khi Đáp",
           "value": "74.6%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "Sát Thương Tấn Công Khi Đáp Từ Độ Thấp / Cao",
           "value": "149% / 186%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Tidecaller",
-      "unlock": "Elemental Skill",
-      "description": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\nPress\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.\nHold\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\n\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\n\nThe shield possesses the following properties:\n\nHas 250% Electro DMG Absorption Efficiency.\nApplies the Electro element to Beidou upon activation.",
+      "name": "Bắt Sóng",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Không có gì phải lo lắng. Nếu có ai dám ra tay với cô hoặc người của cô, thì sẽ phải trả giá gấp 10 lần bằng sấm sét và kiếm.\nNhấn\nTích tụ sức mạnh sấm sét, chém mạnh kiếm lớn về phía trước, gây sát thương Nguyên Tố Lôi.\nNhấn Giữ\nNhấc vũ khí lên hình thành khiên, hấp thụ lượng sát thương căn cứ theo giới hạn HP của Beidou.\n\nSau khi thả giữ kỹ năng hoặc hết thời gian, sẽ vung kiếm giải phóng sức mạnh tích lũy để phản công, gây sát thương Nguyên Tố Lôi. Dựa vào số lần bị tấn công trong thời gian kỹ năng, tăng sát thương tạo thành. Kích hoạt 2 lần sẽ đạt buff sát thương cao nhất.\n\nKhiên có hiệu quả như sau:\n\nĐối với sát thương Nguyên Tố Lôi có 250% hiệu quả hấp thu.\nKhi thi triển, có thêm Nguyên Tố Lôi kèm theo cho Beidou.",
       "upgrades": [
         {
-          "name": "Shield DMG Absorption",
+          "name": "Sát Thương Hấp Thụ Từ Khiên",
           "value": "14.4% Max HP + 1386"
         },
         {
