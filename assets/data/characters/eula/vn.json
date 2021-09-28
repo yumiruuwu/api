@@ -1,141 +1,141 @@
 {
     "name": "Eula",
-    "vision": "Cryo",
-    "weapon": "Claymore",
+    "vision": "Băng",
+    "weapon": "Trọng Kiếm",
     "nation": "Mondstadt",
-    "affiliation": "Knights of Favonius",
+    "affiliation": "Đội Kỵ Sĩ Tây Phong",
     "rarity": 5,
-    "constellation": "Aphros Delos",
+    "constellation": "Cung Lãng Mạt",
     "birthday": "0000-10-25",
-    "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "description": "\"Kỵ Sĩ Sóng Nước\" xuất thân từ gia tộc cổ xưa, đội trưởng tiểu đội du kích thuộc Đội Kỵ Sĩ Tây Phong. Là hậu duệ của quý tộc cũ nhưng lại gia nhập Đội Kỵ Sĩ Tây Phong - kẻ thù không đội trời chung, sự việc này đến nay vẫn là một ẩn số lớn của Mondstadt.",
     "skillTalents": [
       {
-        "name": "Favonius Bladework - Edel",
-        "unlock": "Normal Attack",
-        "description": "Normal Attack\nPerform up to five consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.\nPlunging Attack\n Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "name": "Tây Phong Kiếm - Tông Thất",
+        "unlock": "Tấn Công Thường",
+        "description": "Tấn Công Thường\nThực hiện tối đa 5 lần chém liên tiếp.\nTrọng Kích\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp. Sau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất.",
         "upgrades": [
             {
-              "name": "1-Hit DMG",
+              "name": "Sát Thương Chém Lần 1",
               "value": "89.7%"
             },
             {
-              "name": "2-Hit DMG",
+              "name": "Sát Thương Chém Lần 2",
               "value": "93.6%"
             },
             {
-              "name": "3-Hit DMG",
+              "name": "Sát Thương Chém Lần 3",
               "value": "56.8%"
             },
             {
-              "name": "4-Hit DMG",
+              "name": "Sát Thương Chém Lần 4",
               "value": "112.6%"
             },
             {
-              "name": "5-Hit DMG",
+              "name": "Sát Thương Chém Lần 5",
               "value": "71.8%"
             },
             {
-              "name": "Charged Attack Spinning DMG",
+              "name": "Sát Thương Trọng Kích Tuần Hoàn",
               "value": "68.8%"
             },
             {
-              "name": "Charged Attack Final DMG",
+              "name": "Sát Thương Trọng Kích Chí Mạng",
               "value": "124%"
             },
             {
-              "name": "Charged Attack Stamina Cost",
+              "name": "Thể lực Trọng Kích Tiêu Hao",
               "value": "40/s"
             },
             {
-              "name": "Max Duration",
+              "name": "Thời Gian Tối Đa",
               "value": "5s"
             },
             {
-              "name": "Plunge DMG",
+              "name": "Sát Thương Khi Rơi",
               "value": "74.6%"
             },
             {
-              "name": "Low / High Plunge DMG",
+              "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp / Cao",
               "value": "149% / 186%"
             }
          ],
         "type": "NORMAL_ATTACK"
       },
       {
-        "name": "Icetide Vortex",
-        "unlock": "Elemental Skill",
-        "description":"Sharp frost, swift blade.\nPress\nSlashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.\nGrimheart\nIncreases Eula's resistance to interruption and DEF.\nHold\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents.", 
+        "name": "Lốc Xoáy Băng Hàn",
+        "unlock": "Kỹ Năng Nguyên Tố",
+        "description":"Cực hàn băng khí, cực tốc kiếm vũ.\nNhấn\nTấn công nhanh, gây Sát Thương Nguyên Tố Băng. Khi đánh trúng kẻ địch sẽ khiến Eula nhận được 1 tầng hiệu quả Trái Tim Băng Giá, tối đa cộng dồn 2 lần. Mỗi 0.3s chỉ kích hoạt 1 lần.\nNhấn Giữ\nTiêu hao tất cả hiệu quả Trái Tim Băng Giá và múa đại kiếm chém về phía trước, gấy Sát Thương Nguyên Tố Băng diện rộng cho kẻ địch phía trước.\nTrái Tim Băng Giá\nTăng khả năng phòng thủ và kháng gián đoạn của Eula.\nNếu tiêu hao hiệu quả Trái Tim Băng Giá, sẽ làm giảm Kháng Vật Lý và Kháng Nguyên Tố Băng của kẻ địch bên cạnh.\nMỗi một tầng Trái Tim Băng Giá bị tiêu hao sẽ bị chuyển hóa thành 1 thanh Băng Vũ Kiếm, gây Sát Thương Nguyên Tố Băng cho địch xung quanh.", 
         "upgrades": [
           {
-            "name": "Tap DMG",
+            "name": "Sát Thương Nhấn",
             "value": "146.4%"
           },
           {
-            "name": "Hold DMG",
+            "name": "Sát Thương Nhấn Giữ",
             "value": "245.6%"
           },
           {
-            "name": "Icewhirl Brand DMG",
+            "name": "Sát Thương Băng Vũ Kiếm",
             "value": "96%"
           },
           {
-            "name": "Physical RES Decrease",
+            "name": "Kháng Vật Lý Giảm",
             "value": "16%"
           },
           {
-            "name": "Cryo RES Decrease",
+            "name": "Kháng Nguyên Tố Băng Giảm",
             "value": "16%"
           },
           {
-            "name": "Grimheart Duration",
+            "name": "Thời gian Trái Tim Băng Giá kéo dài",
             "value": "18s"
           },
           {
-            "name": "Def Bonus Per Stack",
+            "name": "Phòng Ngự Tăng",
             "value": "30%"
           },
           {
-            "name": "RES Decrease Duration",
+            "name": "Thời Gian Giảm Kháng",
             "value": "7s"
           },
           {
-            "name": "Press CD",
+            "name": "Thời Gian Hồi Khi Nhấn",
             "value": "4s"
           },
           {
-            "name": "Holding CD",
+            "name": "Thời Gian Hồi Khi Nhấn Giữ",
             "value": "10s"
           }
         ],
         "type": "ELEMENTAL_SKILL"
       },
       {
-        "name": "Glacial Illumination",
-        "unlock": "Elemental Burst",
-        "description": "Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will immediately explode.",
+        "name": "Thanh Kiếm Sóng Nước",
+        "unlock": "Kỹ Năng Nộ",
+        "description": "Múa đại kiếm gây Sát Thương Nguyên Tố Băng cho kẻ địch xung quanh, đồng thời tạo ra Kiếm Ánh Sáng đi theo bản thân, tồn tại tối đa 7 giây.\nTrong thời gian duy trì, Kiếm Ánh Sáng sẽ tăng khả năng kháng gián đoạn của Eula; Đồng thời khi Eula gây sát thương cho kẻ địch bằng đánh thường, kỹ năng nguyên tố hoặc kỹ năng nộ đều sẽ tích lũy năng lượng cho thanh kiếm. Mỗi 0.1s chỉ có thể tích tụ 1 tầng năng lượng.\nSau khi kết thúc thời gian duy trì, thank kiếm sẽ giáng xuống và nổ mạnh, gây sát thương vật lý cho kẻ địch xung quanh.\nSát thương sẽ chịu ảnh hưởng bởi số tầng tích tụ của Kiếm Ánh Sáng.\nKhi Eula rời trận, Kiếm Ánh Sáng sẽ nổ ngay lập tức.",
         "upgrades": [
           {
-            "name": "Skill DMG",
+            "name": "Sát Thương Kỹ Năng",
             "value": "245.6%"
           },
           {
-            "name": "Lighfall Sword Base DMG",
+            "name": "Sát Thương Cơ Bản Kiếm Ánh Sáng",
             "value": "367%"
           },
           {
-            "name": "DMG Per Stack",
+            "name": "Sát Thương Mỗi Tầng Năng Lượng",
             "value": "75%"
           },
           {
-            "name": "Maximum Stacks",
+            "name": "Giới Hạn Số Tầng Năng Lượng",
             "value": "30"
           },
           {
-            "name": "CD",
+            "name": "Thời Gian Hồi",
             "value": "20s"
           },
           {
-            "name": "Energy Cost",
+            "name": "Năng Lượng Nguyên Tố",
             "value": "80"
           }
         ],
@@ -144,58 +144,58 @@
     ],
     "passiveTalents": [
       {
-        "name": "Roiling Rime",
-        "unlock": "Unlocked at Ascension 1",
-        "description": "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination.", 
+        "name": "Băng Cuộn Thủy Triều",
+        "unlock": "Nội Tại Đột Phá Đầu Tiên",
+        "description": "Khi nhấn giữ thi triển Lốc Xoáy Băng Hàn, nếu tiêu hao cùng một lúc 2 tầng hiệu quả Trái Tim Băng Giá, sẽ tạo ra Kiếm Ánh Sáng và phát nổ ngay lập tức, gây sát thương vật lý tương đương với 50% sát thương cơ bản Kiếm Ánh Sáng của Thanh Kiếm Sóng Nước.", 
         "level": 1
       },
       {
-        "name": "Wellspring of War-Lust",
-        "unlock": "Unlocked at Ascension 4",
-        "description": "When Glacial Illumination is cast, the CD of Icetide Vortex is reset and Eula gains 1 stack of Grimheart.",
+        "name": "Lòng Hiếu Chiến Trỗi Dậy",
+        "unlock": "Nội Tại Đột Phá Thứ Tư",
+        "description": "Khi dùng Thanh Kiếm Sóng Nước sẽ làm mới CD của Lốc Xoáy Băng Hàn, đồng thời cung cấp cho Eula 1 tầng hiệu ứng Trái Tim Băng Giá.",
         "level": 4
       },
       {
-        "name": "Aristocratic Introspection",
-        "unlock": "Unlocked Automatically",
-        "description": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product."
+        "name": "Nội Tâm Quý Tộc",
+        "unlock": "Nội Tại Cố Định",
+        "description": "Khi ghép nguyên liệu thiên phú nhân vật, có 10% nhận được x2 thành phẩm."
       }
     ],
     "constellations": [
       {
-        "name": "Tidal Illusion",
-        "unlock": "Constellation Lv. 1",
-        "description": "Every time Icetide Vortex's Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.",
+        "name": "Ảnh Ảo Của Sóng",
+        "unlock": "Cung Mệnh Tầng 1",
+        "description": "Sau khi tiêu hao hiệu quả Trái Tim Băng Giá của Lốc Xoáy Băng Hàn, buff sát thương vật lý của Eula tăng 30%, kéo dài 6s.\nMỗi khi tiêu hao 1 tầng Trái Tim Băng Giá đều khiến hiệu ứng này kéo dài thêm 6s, tối đa không vượt quá 18s.",
         "level": 1
       },
       {
-        "name": "Lady of Seafoam",
-        "unlock": "Constellation Lv. 2",
-        "description": "Decreases the CD of Icetide Vortex's Holding Mode, rendering it identical to Tapping CD.",
+        "name": "Thiếu Nữ Của Bọt Biển",
+        "unlock": "Cung Mệnh Tầng 2",
+        "description": "Rút ngắn CD khi nhấn giữ Lốc Xoáy Băng Hàn, khiến CD giảm xuống bằng với nhấn buông.",
         "level": 2
       },
       {
-        "name": "Lawrence Pedigree",
-        "unlock": "Constellation Lv. 3",
-        "description": "Increases the Level of Glacial Illumination Mix by 3.\nMaximum upgrade level is 15.",
+        "name": "Huyết Mạch Của Lawrence",
+        "unlock": "Cung Mệnh Tầng 3",
+        "description": "Cấp kỹ năng Thanh Kiếm Sóng Nước +3.\nTăng tối đa đến cấp 15.",
         "level": 3
       },
       {
-        "name": "The Obstinacy of One's Inferiors",
-        "unlock": "Constellation Lv. 4",
-        "description": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.",
+        "name": "Sức Mạnh Của Kẻ Tự Ti",
+        "unlock": "Cung Mệnh Tầng 4",
+        "description": "Đối với địch có HP dưới 50%, sát thương tạo thành của Kiếm Ánh Sáng tăng 25%.",
         "level": 4
       },
       {
-        "name": "Chivalric Quality",
-        "unlock": "Constellation Lv. 5",
-        "description": "Increases the level of Icetide Vortex by 3.\nMaximum upgrade level is 15.",
+        "name": "Tố Chất Kỵ Sĩ",
+        "unlock": "Cung Mệnh Tầng 5",
+        "description": "Cấp kỹ năng Lốc Xoáy Băng Hàn +3.\nTăng tối đa đến cấp 15.",
         "level": 5
       },
       {
-        "name": "Noble Obligation",
-        "unlock": "Constellation Lv. 6",
-        "description": "Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy.",
+        "name": "Nghĩa Vụ Cao Quý",
+        "unlock": "Cung Mệnh Tầng 6",
+        "description": "Kiếm Ánh Sáng được tạo ra từ Thanh Kiếm Sóng Nước nhận ngay 5 tầng năng lượng. Khi tấn công thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ gây sát thương khiến nó tích tụ số tầng năng lượng, sẽ có 50% tỷ lệ nhận thêm 1 tầng.",
         "level": 6
       }
     ],
