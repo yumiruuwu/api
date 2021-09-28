@@ -5,7 +5,7 @@
   "nation": "Liyue",
   "affiliation": "Cảng Liyue",
   "rarity": 4,
-  "constellation": "Nubis Caesor",
+  "constellation": "Càn Khôn Phong",
   "birthday": "0000-09-07",
   "description": "Phương sĩ trẻ tuổi thuộc gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân.",
   "skillTalents": [
@@ -15,87 +15,87 @@
       "description": "Tấn Công Thường\nThực hiện tối đa 4 lần chém liên tiếp.\nTrọng Kích\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\n\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Chém Lần 1",
           "value": "70%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Chém Lần 2",
           "value": "63.1%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Chém Lần 3",
           "value": "80.3%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Chém Lần 4",
           "value": "101%"
         },
         {
-          "name": "Charged Attack Spinning DMG",
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
           "value": "56.3%"
         },
         {
-          "name": "Charged Attack Final DMG",
+          "name": "Sát Thương Trọng Kích Chí Mạng",
           "value": "102%"
         },
         {
-          "name": "Charged Attack Stamina Cost",
+          "name": "Thể lực Trọng Kích Tiêu Hao",
           "value": "40/s"
         },
         {
-          "name": "Max Duration",
+          "name": "Thời Gian Kéo Dài Tối Đa",
           "value": "5s"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Khi Đáp",
           "value": "74.6%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "ST Khi Rơi Từ Độ Cao Thấp / Cao",
           "value": "149% / 186%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Spirit Blade - Chonghua's Layered Frost",
-      "unlock": "Elemental Skill",
-      "description": "Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals Cryo DMG.\n\nAfter a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all DMG done through Normal and Charged Attacks by Sword, Greatsword and Polearm-wielding characters will be converted to Cryo DMG.",
+      "name": "Linh Đao - Sương Bạc Trùng Điệp",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Chongyun vung cự kiếm đập mạnh xuống mặt đất, gây ra vụ nổ băng ở phạm vi hình tròn phía trước và gây cho địch sát thương Nguyên Tố Băng.\n\nSau khi gây ngưng trệ ngắn hạn, hàn khí tích tụ thành khu vực Sương Bạc Trùng Điệp, khiến cho nhân vật dùng kiếm đơn, đại kiếm, vũ khí cán dài nhận Nguyên Tố Băng đính kèm.",
       "upgrades": [
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "172%"
         },
         {
-          "name": "Delay",
+          "name": "Thời Gian Đính Kèm Kéo Dài",
           "value": "2s"
         },
         {
-          "name": "Duration",
+          "name": "Thời Gian Khu Vực Kéo Dài",
           "value": "10s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "15s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Spirit Blade - Cloud-parting Star",
-      "unlock": "Elemental Burst",
-      "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\n\nWhen the spirit blades explode, they will deal AoE Cryo DMG and launch enemies.",
+      "name": "Linh Đao - Vân Khai Tinh Lạc",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Chongyun kết ấn, triệu hồi liên tục ba thanh linh kiếm ở khoảng không phía trước, rồi lần lượt rơi xuống mặt đất và nổ tung.\n\nKhi linh kiếm nổ sẽ gây sát thương phạm vi nguyên tố băng đồng thời đánh bay kẻ địch.",
       "upgrades": [
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "142%"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "12s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Nguyên Tố",
           "value": "40"
         }
       ],
@@ -104,58 +104,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Steady Breathing",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Sword, Claymore, or Polearm-wielding characters within the field created by Spirit Blade - Chonghua's Layered Frost have their Normal Attack SPD increased by 8%.",
+      "name": "Hơi Thở Bình Yên",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Tất cả nhân vật dùng kiếm đơn, trọng kiếm, vũ khí cán dài đứng trong Linh Đao - Sương Bạc Trùng Điệp tăng 8% tốc độ tấn công của các đòn tấn công thường.",
       "level": 1
     },
     {
-      "name": "Rimechaser Blade",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "When the field created by Spirit Blade - Chonghua's Layered Frost disappears, another spirit will be summoned to strike nearby enemies, dealing 100% of Chonghua's Layered Frost's Skill DMG as AoE Cryo DMG. Enemies hit by this blade will have their Cryo RES decreased by 10% for 8s.",
+      "name": "Truy Băng Kiếm Quyết",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Khi khu vực Linh Đao - Sương Bạc Trùng Điệp biến mất, sẽ gọi ra 1 thanh Linh Đao tự động tấn công địch xung quanh, tạo thành 100% sát thương phạm vi Nguyên Tố Băng tương đương với kỹ năng sát thương của Linh Đao - Sương Bạc Trùng Điệp. Địch bị đánh trúng kháng Nguyên Tố Băng giảm 10%, kéo dài 8s.",
       "level": 4
     },
     {
-      "name": "Gallant Journey",
-      "unlock": "Unlocked Automatically",
-      "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
+      "name": "Chu Du Sông Núi",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
     }
   ],
   "constellations": [
     {
-      "name": "Ice Unleashed",
-      "unlock": "Constellation Lv. 1",
-      "description": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all enemies in its path.",
+      "name": "Phóng Thích Đao Băng",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Lần đánh cuối trong tấn công thường sẽ phóng ra 3 đạo băng đao về phía trước, mỗi đao băng sẽ gây ra sát thương Nguyên Tố Băng bằng tấn công 50% của Chongyun cho kẻ địch trên đường đi.",
       "level": 1
     },
     {
-      "name": "Atmospheric Revolution",
-      "unlock": "Constellation Lv. 2",
-      "description": "Elemental Skills and Elemental Bursts cast within the Frost Field created by Spirit Blade - Chongyun's Layered Frost have their CD time decreased by 15%.",
+      "name": "Nghịch Chuyển Đất Trời",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Khi nhân vật sử dụng kỹ năng trong vùng ảnh hưởng của kỹ năng nguyên tố của Chongyun sẽ được giảm 15% thời gian hồi chiều",
       "level": 2
     },
     {
-      "name": "Cloudburst",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Spirit Blade - Cloud-parting Star by 3.\nMaximum upgrade level is 15.",
+      "name": "Vân Tận Quang Sinh",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp Kỹ Năng Linh Đao – Vân Khai Tinh Lạc +3.\nTăng Nhiều Nhất 15 Cấp.",
       "level": 3
     },
     {
-      "name": "Frozen Skies",
-      "unlock": "Constellation Lv. 4",
-      "description": "Chongyun regenerates 1 Energy every time he hits an enemy affected by Cold or Frozen status effects.\nThis effect can only occur once every 2s.",
+      "name": "Phù Vân Sương Thiên",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Khi Chongyun tấn công kẻ địch bị ảnh hưởng bởi nguyên tố băng sẽ nhận được 1 điểm Năng lượng nguyên tố.\nHiệu quả này chỉ có thể kích hoạt mỗi 2 giây 1 lần",
       "level": 4
     },
     {
-      "name": "The True Path",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Spirit Blade - Chongyun's Layered Frost by 3.\nMaximum upgrade level is 15.",
+      "name": "Chính đạo chân lý",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp Kỹ Năng Linh đao – Sương Bạc Trùng Điệp +3.\nTăng Nhiều Nhất 15 Cấp.",
       "level": 5
     },
     {
-      "name": "Rally of Four Blades",
-      "unlock": "Constellation Lv. 6",
-      "description": "Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirt blade.",
+      "name": "Tứ Linh Bổng Thánh",
+      "unlock": "Cung Mệnh Tầng 6",
+      "description": "kỹ năng nộ Linh đao – Vân khai tinh lạc của anh chàng Chongyun khi gây sát thương cho kẻ địch có lượng HP thấp hơn Chongyun sẽ được tăng 15% sát thương.\nKỹ năng này cũng sẽ hồi thêm 1 linh đao",
       "level": 6
     }
   ],
