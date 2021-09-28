@@ -43,71 +43,71 @@
           "value": "124%"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Khi Đáp",
           "value": "56.8%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "ST Khi Rơi Từ Độ Cao Thấp / Cao",
           "value": "114% / 142%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Icy Paws",
-      "unlock": "Elemental Skill",
-      "description": "Fires an Icy Paw that deals Cryo DMG to opponents and forms a shield on hit. The shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.\nPress\nRapidly fires off 2 Icy Paws.\nHold\nDashes back quickly before firing five Icy Paws.\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.\nThe shield has a 250% Cryo DMG Absorption Bonus, and will cause your active character to become affected by Cryo at the point of formation for a short duration.",
+      "name": "Móng Mèo Lạnh Giá",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Bắn Móng Mèo Lạnh Giá gây cho địch Sát Thương Nguyên Tố Băng và hình thành khiên khi đánh trúng.\nNhấn\nBắn nhanh 2 Móng Mèo Lạnh Giá.\nNhấn giữ\nLùi về sau và bắn 5 Móng Mèo Lạnh Giá.\nNhấn giữ hình thành Khiên, hấp thụ thêm 75% sát thương.\nKhiên sẽ hấp thụ 250% Sát Thương Nguyên Tố Băng, và khi hình thành, sẽ tăng thêm cho nhân vật Nguyên Tố Băng kèm Theo.",
       "upgrades": [
         {
-          "name": "Icy Paw DMG",
+          "name": "Sát Thương Vuốt Mèo",
           "value": "41.9% per paw"
         },
         {
-          "name": "Base Shield DMG Absorption",
+          "name": "Khiên hấp thu cơ bản",
           "value": "7.2% max hp + 693"
         },
         {
-          "name": "Duration",
+          "name": "Thời gian kéo dài",
           "value": "1.8s per claw"
         },
         {
-          "name": "Press CD",
+          "name": "Thời Gian Hồi Nhấn",
           "value": "6s"
         },
         {
-          "name": "Holding CD",
+          "name": "Thời Gian Hồi Nhấn Giữ",
           "value": "15s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Signature Mix",
-      "unlock": "Elemental Burst",
-      "description": "Tosses out a special cold brew that deals AoE Cryo DMG and creates a Drunken Mist in an AoE.\nDrunken Mist\n\nDeals continuous Cryo DMG to opponents within the AoE.\nContinuously regenerates the HP of characters within the AoE.\n",
+      "name": "Đặc Chế Mãnh Liệt",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Ném những viên đá được điều chế đặc biệt, gây Sát Thương Phạm Vi Nguyên Tố Băng và tạo thành khu vực Hơi Rượu Băng.\nKhu Vực Hơi Rượu Băng:\n\nGây cho kẻ địch trong đó Sát Thương Nguyên Tố Băng liên tục.\nHồi HP liên tục cho nhân vật trong đó.\n",
       "upgrades": [
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "80%"
         },
         {
-          "name": "Continuous Field DMG",
+          "name": "Sát Thương Duy Trì Trong Khu Vực",
           "value": "52.6%"
         },
         {
-          "name": "HP Regeneration Over Time",
+          "name": "Lượng Trị Liệu Liên Tục",
           "value": "5.34% max hp + 513"
         },
         {
-          "name": "Duration",
+          "name": "Thời Gian Kéo Dài",
           "value": "12s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "20s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Nguyên Tố",
           "value": "80"
         }
       ],
@@ -116,28 +116,28 @@
   ],
   "passiveTalents": [
     {
-      "name": "Cat's Tail Secret Menu",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Characters shielded by Icy Paws have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.",
+      "name": "Thực Đơn Bí Mật Đuôi Mèo",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Nhân vật được Khiên Móng Mèo Lạnh Giá bảo vệ,tốc độ di chuyển tăng 10%,thể lực tiêu hao giảm 10%.",
       "level": 1
     },
     {
-      "name": "Drunkard's Farce",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Opponents who enter the AoE of Signature Mix have 10% decreased ATK for 15s.",
+      "name": "Kẻ Say Rượu Khôi Hài",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Trong 15 giây sau khi địch vào khu vực Đặc Chế Mãnh Liệt giảm 10% tấn công.",
       "level": 4
     },
     {
-      "name": "Complimentary Bar Food",
-      "unlock": "Unlocked Automatically",
-      "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
+      "name": "Đồ Nhắm Tặng Kèm",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Nấu Hoàn Mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
     }
   ],
   "constellations": [
     {
-      "name": "A Lingering Flavor",
-      "unlock": "Constellation Lv. 1",
-      "description": "Regenerates 15 Energy for Diona after the effects of Signature Mix end.",
+      "name": "Dư Âm Đặc Chế",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Khi kết thúc hiệu quả Đặc Chế Mãnh Liệt, Diona được hồi 15 điểm Năng Lượng Nguyên Tố.",
       "level": 1
     },
     {
