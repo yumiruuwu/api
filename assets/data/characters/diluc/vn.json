@@ -1,113 +1,113 @@
 {
   "name": "Diluc",
-  "vision": "Pyro",
-  "weapon": "Claymore",
+  "vision": "Hoả",
+  "weapon": "Trọng Kiếm",
   "nation": "Mondstadt",
-  "affiliation": "Dawn Winery",
+  "affiliation": "Tửu Trang Dawn",
   "rarity": 5,
-  "constellation": "Noctua",
+  "constellation": "Dạ Hiêu",
   "birthday": "0000-04-30",
-  "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+  "description": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường.",
   "skillTalents": [
     {
-      "name": "Tempered Sword",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 4 consecutive strikes.\nCharged Attack\nDrains Stamina over time to perform continuous slashes.\n\nAt the end of the sequence, perform a more powerful slash.\nPlunging Attack\nPlunges from mid-air to strike the ground, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "name": "Kiếm Tôi Luyện",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 4 lần chém liên tiếp.\nTrọng Kích\nTiêu hao thể lực liên tục để chém nhanh liên tiếp.\n\nSau khi trọng kích kết thúc, sẽ bổ một nhát cực mạnh.\nTấn Công Khi Đáp\nĐáp xuống từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Chém Lần 1",
           "value": "89.7%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Chém Lần 2",
           "value": "87.6%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Chém Lần 3",
           "value": "98.8%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Chém Lần 5",
           "value": "134%"
         },
         {
-          "name": "Charged Attack Spinning DMG",
+          "name": "Sát Thương Trọng Kích Tuần Hoàn",
           "value": "68.8%"
         },
         {
-          "name": "Charged Attack Final DMG",
+          "name": "Sát Thương Trọng Kích Chí Mạng",
           "value": "125%"
         },
         {
-          "name": "Charged Attack Stamina Cost",
+          "name": "Thể lực Trọng Kích tiêu hao",
           "value": "40/s"
         },
         {
-          "name": "Max Duration",
+          "name": "Thời Gian Kéo Dài Tối Đa",
           "value": "5s"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Khi Đáp",
           "value": "89.5%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "ST Khi Rơi Từ Độ Cao Thấp / Cao",
           "value": "179% / 224%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Searing Onslaught",
-      "unlock": "Elemental Skill",
-      "description": "Performs a forward slash that deals Pyro DMG.\nThis skill can be used 3 times consecutively. Enters CD if not cast again within a short period.",
+      "name": "Lưỡi Kiếm Tấn Công",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Vung kiếm về phía trước và gây Sát Thương Nguyên Tố Hỏa.\nCó thể thi triển liên tiếp 3 lần. Nếu trong thời gian ngắn không thi triển, sẽ vào trạng thái chờ.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Lần 1",
           "value": "94.4%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Lần 2",
           "value": "97.6%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Lần 3",
           "value": "129%"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "10s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Dawn",
-      "unlock": "Elemental Burst",
-      "description": "Releases intense flames to knock nearby enemies back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all enemies in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.\n\nThe searing flames that run down his blade cause Diluc's Normal and Charged Attacks to deal Pyro DMG for a time.",
+      "name": "Lê Minh",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Bùng cháy sức mạnh của lửa, đánh lui kẻ địch xung quanh, gây Sát Thương Nguyên Tố Hỏa. Sau đó ngưng tụ lửa trên vũ khí, vung ra chim lửa bay về phía trước, gây cho địch trên đường lượng lớn Sát Thương Nguyên Tố Hỏa đồng thời ở điểm đến cuối cùng của chim lửa gây lượng lớn Sát Thương Phạm Vi Nguyên Tố Hỏa.\n\nNgọn lửa trên vũ khí khiến Diluc nhận được Nguyên Tố Hỏa đính kèm.",
       "upgrades": [
         {
-          "name": "Slashing DMG",
+          "name": "Sát Thương Chém",
           "value": "204%"
         },
         {
-          "name": "DoT",
+          "name": "Sát Thương Gây Theo Thời Gian",
           "value": "60%"
         },
         {
-          "name": "Explosion DMG",
+          "name": "Sát Thương Nổ",
           "value": "204%"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "12s"
         },
         {
-          "name": "Enchantment Duration",
+          "name": "Thời Gian Đính Kèm Kéo Dài",
           "value": "8s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Nguyên Tố",
           "value": "40"
         }
       ],
@@ -116,58 +116,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Relentless",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+      "name": "Không Bỏ Cuộc",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Thể lực trọng kích Diluc tiêu hao giảm 50%, tăng thời gian tối đa thêm 3s.",
       "level": 1
     },
     {
-      "name": "Blessing of Phoenix",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus during the duration of this effect.",
+      "name": "Đôi Cánh Rực Lửa",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Kéo dài 4s thời gian Nguyên Tố Hỏa đính kèm mà Lê Minh mang đến. Ngoài ra, trong thời gian hiệu lực, Diluc nhận 20% buff Sát Thương Nguyên Tố Hỏa",
       "level": 4
     },
     {
-      "name": "Tradition of the Dawn Knight",
-      "unlock": "Unlocked Automatically",
-      "description": "Refunds 15% of the ores used when crafting Claymore-type weapons."
+      "name": "Truyền Thống Của Bình Minh",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Khi rèn vũ khí dạng Trọng Kiếm, hoàn trả 15% khoáng thạch tiêu hao."
     }
   ],
   "constellations": [
     {
-      "name": "Conviction",
-      "unlock": "Constellation Lv. 1",
-      "description": "Diluc deals 15% more DMG to enemies whose HP is above 50%.",
+      "name": "Cắt Đứt Tội Lỗi",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Đối với địch có HP trên 50%, sát thương Diluc tạo ra tăng 15%.",
       "level": 1
     },
     {
-      "name": "Searing Ember",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Diluc takes DMG, his Base ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+      "name": "Than Hồng",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Khi Diluc bị thương, tấn công tăng 10%, tốc độ tấn công tăng 5%, kéo dài 10s.\nHiệu quả cộng dồn tối đa 3 lần, mỗi 1,5s chỉ thi triển 1 lần.",
       "level": 2
     },
     {
-      "name": "Steel and Fire",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Searing Onslaught by 3.\nMaximum upgrade level is 15.",
+      "name": "Ngọn Lửa Thép",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Lưỡi Kiếm Tấn Công +3.\nTăng tối đa đến cấp 15.",
       "level": 3
     },
     {
-      "name": "Flowing Flame",
-      "unlock": "Constellation Lv. 4",
-      "description": "Casting Searing Onslaught in sequence greatly increases damage dealt.\nWithin 2s of using Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for the next 2s.",
+      "name": "Lòng Như Lửa Đốt",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Phóng Lưỡi Kiếm Tấn Công theo từng nhịp và có thể tăng sát thương tạo thành.\nSau 2s thi triển Lưỡi Kiếm Tấn Công tăng 40% sát thương đòn đánh tiếp theo của Lưỡi Kiếm Tấn Công, kéo dài 2s. Sát thương truy kích bằng 135% của tấn công lần 2.",
       "level": 4
     },
     {
-      "name": "Phoenix, Harbinger of Dawn",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Dawn by 3.\nMaximum upgrade level is 15.",
+      "name": "Phượng Hoàng Lúc Bình Minh",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Lê Minh +3.\nTăng tối đa đến cấp 15.",
       "level": 5
     },
     {
-      "name": "Flaming Sword, Nemesis of Dark",
-      "unlock": "Constellation Lv. 6",
-      "description": "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+      "name": "Lửa Và Can ĐảmKiếm Lửa Diệt Trừ Tà Ác",
+      "unlock": "CUng Mệnh Tầng 6",
+      "description": "Sau khi thi triển Lưỡi Kiếm Tấn Công tăng 30% tốc độ cho 2 lần đánh tấn công thường tiếp theo trong 6s, sát thượng tạo thành tăng 30%.\nNgoài ra, Lưỡi Kiếm Tấn Công sẽ không làm mới các đoạn liên kích tấn công thường.",
       "level": 6
     }
   ],
