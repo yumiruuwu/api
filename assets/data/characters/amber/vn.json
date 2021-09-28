@@ -18,39 +18,39 @@
       "description": "Tấn Công Thường\nThực hiện tối đa 5 lần bắn tên liên tiếp.\nTrọng Kích\nSát thương càng cao, ngắm bắn càng chuẩn.\n\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây Sát Thương Nguyên Tố Hỏa.\nTấn Công Khi Đáp\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "Sát Thương bắn lần 1",
+          "name": "Sát Thương Bắn Lần 1",
           "value": "36.1%"
         },
         {
-          "name": "Sát thương bắn lần 2",
+          "name": "Sát Thương Bắn Lần 2",
           "value": "36.1%"
         },
         {
-          "name": "Sát thương bắn lần 3",
+          "name": "Sát Thương Bắn Lần 3",
           "value": "46.4%"
         },
         {
-          "name": "Sát thương bắn lần 4",
+          "name": "Sát Thương Bắn Lần 4",
           "value": "47.3%"
         },
         {
-          "name": "Sát thương bắn lần 5",
+          "name": "Sát Thương Bắn Lần 5",
           "value": "59.3%"
         },
         {
-          "name": "Sát thương ngắm bắn",
+          "name": "Sát Thương Ngắm Bắn",
           "value": "43.9%"
         },
         {
-          "name": "Sát thương trọng kích",
+          "name": "Sát Thương Trọng Kích",
           "value": "124%"
         },
         {
-          "name": "Sát thương khi đáp",
+          "name": "Sát Thương Khi Đáp",
           "value": "56.8%"
         },
         {
-          "name": "Sát thương khi đáp từ độ thấp / cao",
+          "name": "Sát Thương Khi Đáp Từ Độ Thấp / Cao",
           "value": "114% / 142%"
         }
       ],
