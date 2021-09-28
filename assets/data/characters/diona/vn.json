@@ -141,33 +141,33 @@
       "level": 1
     },
     {
-      "name": "Shaken, Not Purred",
-      "unlock": "Constellation Lv. 2",
-      "description": "Increases Icy Paws' DMG by 15%, and increases its shield's DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the Icy Paws shield's DMG Absorption for 5s.",
+      "name": "Vuốt Mèo Lắc Đá",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Sát thương gây ra bởi Móng Mèo Lạnh Giá tăng 15%, khả năng hấp thụ sát thương của lớp khiên tăng 15%. Ngoài ra, khi đánh trúng sẽ tạo thành lớp khiên cho các nhân vật trên trận khác hiện ở gần có khả năng hấp thụ sát thương bằng 50% Móng Mèo Lạnh Giá và kéo dài 5s.",
       "level": 2
     },
     {
-      "name": "A-Another Round?",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Signature Mix by 3.\nMaximum upgrade level is 15.",
+      "name": "Vẫn Muốn Thêm Một Ly?",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Đặc Chế Mãnh Liệt +3.\nTăng tối đa đến cấp 15.",
       "level": 3
     },
     {
-      "name": "Wine Industry Slayer",
-      "unlock": "Constellation Lv. 4",
-      "description": "Within the radius of Signature Mix, Diona's charge time for aimed shots is reduced by 60%.",
+      "name": "Sát Thủ Ngành Rượu",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Khi ở trong khu vực Đặc Chế Mãnh Liệt, thời gian tụ lực cần khi ngắm bắn của Diona giảm 60%.",
       "level": 4
     },
     {
-      "name": "Double Shot, On The Rocks",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the level of Icy Paws by 3.\nMaximum upgrade level is 15.",
+      "name": "Hai Cốc Thêm Đá",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Móng Mèo Lạnh Giá +3.\nTăng tối đa đến cấp 15.",
       "level": 5
     },
     {
-      "name": "Cat's Tail Closing Time",
-      "unlock": "Constellation Lv. 6",
-      "description": "Characters within Signature Mix's radius will gain the following effects based on their HP amounts:\nIncreasing Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\nElemental Mastery is increased by 200 when HP is above 50%.",
+      "name": "Khi Quán Đuôi Mèo Đóng Cửa",
+      "unlock": "Cung Mệnh Tầng 6",
+      "description": "Khi ở trong khu vực Đặc Chế Mãnh Liệt sẽ nhận được các hiệu quả dưới đây tùy theo HP nhân vật:\nHP thấp hơn hoặc bằng 50%, tăng nhận trị liệu 30%.\nKhi HP cao hơn 50%, Tinh Thông Nguyên Tố tăng 200.",
       "level": 6
     }
   ],
