@@ -1,117 +1,117 @@
 {
   "name": "Ganyu",
-  "vision": "Cryo",
-  "weapon": "Bow",
+  "vision": "Băng",
+  "weapon": "Cung",
   "nation": "Liyue",
-  "affiliation": "Yuehai Pavilion",
+  "affiliation": "Nguyệt Hải Đình",
   "rarity": 5,
-  "constellation": "Sinae Unicornis",
+  "constellation": "Cung Tiên Lân",
   "birthday": "0000-12-02",
-  "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+  "description": "Thư ký tại Nguyệt Hải Đình. Máu của Kỳ Lân, một tiên thú được chiếu sáng, chảy trong huyết quản của cô ấy.",
   "skillTalents": [
     {
-      "name": "Liutian Archery",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerform up to 6 consecutive shots with a bow.\nCharged Attack\nPerform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired.\nHas different effects based on how long the energy has been charged\nCharge Level 1\nFires off an icy arrow that deals Cryo DMG.\nCharge Level 2\nFires off a Frostflake Arrow that deals Cryo DMG.\nThe Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG.",
+      "name": "Lưu Thiên Xạ Thuật",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nLiên tục bắn tên,tối đa 6 lần.\nTrọng Kích\nCó thể ngắm bắn chính xác hơn,sát thương cao hơn.Khi nhắm,dòng không khí lạnh sẽ ngưng tụ liên tục trên mũi tên và bắn ra cùng với tấn công.Thời gian tụ lực dài hay ngắn sẽ gây ra hiệu quả khác nhau:\nTụ lực lần 1:Bắn mũi tên có khí lạnh gây Sát Thương Nguyên Tố Băng\nTụ lực lần 2:Bắn Cung Sương Hoa gây Sát Thương Nguyên Tố Băng.\nSau khi trúng,sương giá tung bay,gây thêm Sát Thương Phạm Vi Nguyên Tố Băng\nTấn Công Khi Đáp\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Bắn Lần 1",
           "value": "31.7%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Bắn Lần 2",
           "value": "35.6%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Bắn Lần 3",
           "value": "45.5%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Bắn Lần 4",
           "value": "45.5%"
         },
         {
-          "name": "5-Hit DMG",
+          "name": "Sát Thương Bắn Lần 5",
           "value": "48.2%"
         },
         {
-          "name": "6-Hit DMG",
+          "name": "Sát Thương Bắn Lần 6",
           "value": "57.6%"
         },
         {
-          "name": "Aimed Shot",
+          "name": "Ngắm Bắn",
           "value": "43.9%"
         },
         {
-          "name": "Aimed Shot Charge Level 1 DMG",
+          "name": "Sát Thương Tụ lực Ngắm Bắn Lần 1",
           "value": "124%"
         },
         {
-          "name": "Frostflake Arrow DMG",
+          "name": "Sát Bhương Bắn Trúng Của Cung Sương Hoa",
           "value": "128%"
         },
         {
-          "name": "Frostflake Arrow Bloom DMG",
+          "name": "ST Cung Sương Hoa: Sương Giá Tung Bay",
           "value": "218%"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Khi Rơi",
           "value": "56.8%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp / Cao",
           "value": "114% / 142%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Trail of the Qilin",
-      "unlock": "Elemental Skill",
-      "description": "Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.\nThe Ice Lotus continuously taunts surrounding opponents, attracting them to attack it. Its endurance scales based on Ganyu's Max HP, and it blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG.",
+      "name": "Sơn Trạch Lân Tích",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Ganyu để lại một đóa sen băng rồi lùi nhanh về phía sau, tránh xa tất cả yêu ma, gây Sát Thương Phạm Vi Nguyên Tố Băng.\nBăng Liên:\nLiên tục khiêu khích địch xung quanh, thu hút địch tấn công. Độ bền sẽ kế thừa căn cứ theo tỷ lệ giới hạn HP của Ganyu. Khi bị hủy diệt hoặc hết thời gian sẽ bung nở mạnh mẽ, gây Sát Thương Phạm Vi Nguyên Tố Băng.",
       "upgrades": [
         {
-          "name": "Inherited HP",
+          "name": "HP Thừa Kế",
           "value": "120%"
         },
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "132%"
         },
         {
-          "name": "Delay",
+          "name": "Thời Gian Trì Hoãn",
           "value": "2s"
         },
         {
-          "name": "Duration",
+          "name": "Thời Gian Kéo Dài",
           "value": "6s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "10s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Celestial Shower",
-      "unlock": "Elemental Burst",
-      "description": "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.\nWhile active, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within its AoE and dealing Cryo DMG.",
+      "name": "Thiên Hoa Hạ Phàm",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Ngưng tụ sương tuyết trong không khí, triệu hồi linh châu băng diệt ma.\nTrong thời gian tồn tại, linh châu bằng sẽ không ngừng giáng trụ băng xuống, tấn công kẻ địch trong phạm vi, gây Sát Thương Nguyên Tố Băng.",
       "upgrades": [
         {
-          "name": "Ice Shard DMG",
+          "name": "Sát thương Nhũ Băng",
           "value": "70%"
         },
         {
-          "name": "Duration",
+          "name": "Thời Gian Kéo Dài",
           "value": "15s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "15s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Nguyên Tố",
           "value": "60"
         }
       ],
@@ -120,58 +120,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Undivided Heart",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.",
+      "name": "Duy Thử Nhất Tâm",
+      "unlock": "Nội Tại Đột Phá Thứ Nhất",
+      "description": "Trong vòng 5s sau khi Cung Sương Hoa bắn ra, sẽ khiến tỷ lệ bạo kích của Cung Sương Hoa ở phát tiếp theo và Sương Giá Tung Bay được tạo ra tăng 20%.",
       "level": 1
     },
     {
-      "name": "Harmony between Heaven and Earth",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE.",
+      "name": "Thiên Địa Giao Hòa",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Nhân vật trong đội đang trong trận ở khu vực Thiên Hoa Hạ Phàm sẽ nhận 20% tăng Sát Thương Nguyên Tố Băng.",
       "level": 4
     },
     {
-      "name": "Preserved for the Hunt",
-      "unlock": "Unlocked Automatically",
-      "description": "Refunds 15% of the ores used when crafting Bow-type weapons."
+      "name": "Cất Cung Đợi Dùng",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Khi Rèn vũ khí loại Cung, hoàn trả 15% Khoáng Thạch Tiêu Hao."
     }
   ],
   "constellations": [
     {
-      "name": "Dew-Drinker",
-      "unlock": "Constellation Lv. 1",
-      "description": "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.\n\nA hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target.",
+      "name": "Ẩm Lộ",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Khi Cung Sương Hoa hoặc Sương Giả Tung Bay tụ lực trọng kích lần 2 trúng kẻ địch sẽ khiến địch bị giảm 15% Kháng Nguyên Tố Băng, kéo dài 6s.\n\nNgoài ra, khi trúng sẽ hồi 2. điểm Năng Lượng Nguyên Tố cho Ganyu. Mỗi lần tụ lực trọng kích lần 2 chỉ có thể kích hoạt hiệu quả hồi Năng Lượng Nguyên Tổ 1 lần, bắt kẻ Cung Sương Hoa hoặc Sương Giả Tung Bay có trúng địch hay không.",
       "level": 1
     },
     {
-      "name": "The Auspicious",
-      "unlock": "Constellation Lv. 2",
-      "description": "Trail of the Qilin gains 1 additional charge.",
+      "name": "Hoạch Lân",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Số lần sử dụng Sơn Trạch Lân Tích tăng thêm 1.",
       "level": 2
     },
     {
-      "name": "Cloud-Strider",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Celestial Shower by 3. Maximum upgrade level is 15.",
+      "name": "Vân Hành",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Thiên Hoa Hạ Phàm +3. Tăng tối đa đến cấp 15.",
       "level": 3
     },
     {
-      "name": "Westward Sojourn",
-      "unlock": "Constellation Lv. 4",
-      "description": "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time. Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE.",
+      "name": "Tây Thú",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Trong khu vực của TThiên Hoa Hạ Phàm, tăng sát thương địch nhận phải, hiệu quả này sẽ dần mạnh hơn theo thời gian.\nSát thương tăng thêm nhận phải ban đầu là 5%, mỗi 3s tăng 5%, tăng nhiều nhất đến 25%.\nSau khi rời khỏi khu vực, hiệu quả kéo dài nhiều nhất 3s.",
       "level": 4
     },
     {
-      "name": "The Merciful",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increases the Level of Trail of the Qilin by 3. Maximum upgrade level is 15.",
+      "name": "Trảm Thảo", //dm Ganyu làm gì có cung mệnh nào tên Bá Tước Thỏ! :)??
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Sơn Trạch Lân Tích +3. Tăng tối đa đến cấp 15.",
       "level": 5
     },
     {
-      "name": "The Clement",
+      "name": "Lữ Trùng",
       "unlock": "Constellation Lv. 6",
-      "description": "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.",
+      "description": "Trong vòng 30s sau khi thi triển Sơn Trạch Lân Tích, không cần tụ lực cũng có thể thi triển Cung Sương Hoa lần dầu.",
       "level": 6
     }
   ],
