@@ -1,13 +1,13 @@
 {
   "name": "Kaeya",
-  "vision": "Cryo",
-  "weapon": "Sword",
+  "vision": "Băng",
+  "weapon": "Kiếm Đơn",
   "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
   "rarity": 4,
-  "constellation": "Pavo Ocellus",
+  "constellation": "Khổng Tước Vũ",
   "birthday": "0000-11-30",
-  "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
+  "description": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong.",
   "skillTalents": [
     {
       "name": "Ceremonial Bladework",
