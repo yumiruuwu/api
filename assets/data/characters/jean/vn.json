@@ -1,18 +1,18 @@
 {
   "name": "Jean",
-  "vision": "Anemo",
-  "weapon": "Sword",
+  "vision": "Phong",
+  "weapon": "Kiếm Đơn",
   "nation": "Mondstadt",
-  "affiliation": "Knights of Favonius",
+  "affiliation": "Đội Kỵ Sĩ Tây Phong",
   "rarity": 5,
-  "constellation": "Leo Minor",
+  "constellation": "Ấu Sư",
   "birthday": "0000-03-14",
-  "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
+  "description": "Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trường đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt.",
   "skillTalents": [
     {
-      "name": "Favonius Bladework",
-      "unlock": "Normal Attack",
-      "description": "Normal Attack\nPerforms up to 5 consecutive strikes.\nCharged Attack\nConsumes a certain amount of Stamina to launch an enemy using the power of wind.\n\nLaunched enemies will slowly fall to the ground.\nPlunging Attack\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "name": "Tây Phong Kiếm Thuật",
+      "unlock": "Tấn Công Thường",
+      "description": "Tấn Công Thường\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\nTrọng Kích\nTiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió. Địch bị đánh bay sẽ rơi chậm trong thời gian ngắn.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
           "name": "1-Hit DMG",
