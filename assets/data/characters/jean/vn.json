@@ -83,27 +83,27 @@
       "description": "Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây Sát Thương Nguyên Tô Phong.\n\nĐồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.\nVùng Đất Bồ Công Anh\n\nDuy trì hồi phục HP cho nhân vật.\nKhiến nhân vật trong đó tiếp tục chịu ảnh hưởng Nguyên Tô Phong.\nĐối với dịch ra vào khu vực, gây Sát Thương Nguyên Tô Phong.\n",
       "upgrades": [
         {
-          "name": "Sát Thương Bạo Phát",
+          "name": "ST Nguyên Tố Bạo Phát",
           "value": "425%"
         },
         {
-          "name": "Field Entering / Exiting DMG",
+          "name": "ST Khởi Điểm/ST Đánh Bay",
           "value": "78.4%"
         },
         {
-          "name": "Field Activation Healing",
+          "name": "Trị Liệu Khởi Điểm",
           "value": "251% atk + 1540"
         },
         {
-          "name": "Continuous Regeneration",
+          "name": "Trị Liệu Theo Thời Gian",
           "value": "25.12% atk + 154"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "20s"
         },
         {
-          "name": "Energy Cost",
+          "name": "Năng Lượng Nguyên Tố",
           "value": "80"
         }
       ],
@@ -112,58 +112,58 @@
   ],
   "passiveTalents": [
     {
-      "name": "Wind Companion",
-      "unlock": "Unlocked at Ascension 1",
-      "description": "Hits by Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
+      "name": "Đi Cùng Với Gió",
+      "unlock": "Nội Tại Đột Phá Đầu Tiên",
+      "description": "Khi tấn công thường của Jean đánh trúng, có 50% tỷ lệ hồi HP bằng với 15% tấn công của Jean cho tất cả thành viên đội.",
       "level": 1
     },
     {
-      "name": "Let the Wind Lead",
-      "unlock": "Unlocked at Ascension 4",
-      "description": "Using Dandelion Breeze will regenerate 20% of its Energy.",
+      "name": "Nghe Theo Hướng Gió",
+      "unlock": "Nội Tại Đột Phá Thứ Tư",
+      "description": "Sau khi sử dụng Gió Bồ Công Anh, sẽ hồi phục 20% Năng Lượng Nguyên Tổ.",
       "level": 4
     },
     {
-      "name": "Guiding Breeze",
-      "unlock": "Unlocked Automatically",
-      "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
+      "name": "Ngọn Gió Dẫn Đường",
+      "unlock": "Nội Tại Cố Định",
+      "description": "Nấu Hoàn Mỹ món ăn thuộc loại hỏi phục, có tỷ lệ 12% x2 sản lượng."
     }
   ],
   "constellations": [
     {
-      "name": "Spiraling Tempest",
-      "unlock": "Constellation Lv. 1",
-      "description": "Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.",
+      "name": "Cơn Bão Gió Lốc",
+      "unlock": "Cung Mệnh Tầng 1",
+      "description": "Nhấn giữ Gió Cuộn Kiếm trong hơn 1s để tăng tốc độ kéo, sát thương tạo thành cũng tăng 40%.",
       "level": 1
     },
     {
-      "name": "People's Aegis",
-      "unlock": "Constellation Lv. 2",
-      "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
+      "name": "Lá Khiên Bảo Vệ",
+      "unlock": "Cung Mệnh Tầng 2",
+      "description": "Khi Jean nhận được Nguyên Tổ Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyên, kéo dài 15s.",
       "level": 2
     },
     {
-      "name": "When the West Wind Arises",
-      "unlock": "Constellation Lv. 3",
-      "description": "Increases the Level of Dandelion Breeze by 3.\nMaximum upgrade level is 15.",
+      "name": "Khi Gió Tây Về",
+      "unlock": "Cung Mệnh Tầng 3",
+      "description": "Cấp kỹ năng Gió Bồ Công Anh +3.\nTăng tối đa đến cấp 15.",
       "level": 3
     },
     {
-      "name": "Lands of Dandelion",
-      "unlock": "Constellation Lv. 4",
-      "description": "Within the Field created by Dandelion Breeze, all enemies have their Anemo RES decreased by 40%.",
+      "name": "Lãnh Thổ Bồ Công Anh",
+      "unlock": "Cung Mệnh Tầng 4",
+      "description": "Trong vùng đất Gió Bồ Công Anh,Kháng Nguyên Tố Phong của địch giảm 40%.",
       "level": 4
     },
     {
-      "name": "Outbursting Gust",
-      "unlock": "Constellation Lv. 5",
-      "description": "Increase the Level of Gale Blade by 3.\nMaximum upgrade level is 15.",
+      "name": "Ngọn Gió Mạnh Thổi Qua",
+      "unlock": "Cung Mệnh Tầng 5",
+      "description": "Cấp kỹ năng Gió Cuộn Kiếm +3.\nTăng tối đa đến cấp 15.",
       "level": 5
     },
     {
-      "name": "Lion's Fang, Fair Protector of Mondstadt",
-      "unlock": "Constellation Lv. 6",
-      "description": "Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
+      "name": "Nanh Sư Tử chăm lo muôn dân!",
+      "unlock": "Cung Mệnh Tầng 6",
+      "description": "Trong Gió Bồ Công Anh sát thương phải nhận giảm 35%. Rời khỏi vùng đất, hiệu quả này sẽ biến mất sau 3 lần tấn công hoặc sau 10s.",
       "level": 6
     }
   ],
