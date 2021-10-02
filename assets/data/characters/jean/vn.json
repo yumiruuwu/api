@@ -15,75 +15,75 @@
       "description": "Tấn Công Thường\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\nTrọng Kích\nTiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió. Địch bị đánh bay sẽ rơi chậm trong thời gian ngắn.\nTấn Công Khi Đáp\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
       "upgrades": [
         {
-          "name": "1-Hit DMG",
+          "name": "Sát Thương Chém Lần 1",
           "value": "48.3%"
         },
         {
-          "name": "2-Hit DMG",
+          "name": "Sát Thương Chém Lần 2",
           "value": "45.6%"
         },
         {
-          "name": "3-Hit DMG",
+          "name": "Sát Thương Chém Lần 3",
           "value": "60.3%"
         },
         {
-          "name": "4-Hit DMG",
+          "name": "Sát Thương Chém Lần 4",
           "value": "65.9%"
         },
         {
-          "name": "5-Hit DMG",
+          "name": "Sát Thương Chém Lần 5",
           "value": "79.2%"
         },
         {
-          "name": "Charged Attack DMG",
+          "name": "Sát Thương Trọng Kích",
           "value": "162%"
         },
         {
-          "name": "Charged Attack Stamina Cost",
+          "name": "Thể Lực Trọng Kích Tiêu Hao",
           "value": "20"
         },
         {
-          "name": "Plunge DMG",
+          "name": "Sát Thương Khi Rơi",
           "value": "63.9%"
         },
         {
-          "name": "Low / High Plunge DMG",
+          "name": "Sát Thương Khi Rơi Từ Độ Cao Thấp / Cao",
           "value": "128% / 160%"
         }
       ],
       "type": "NORMAL_ATTACK"
     },
     {
-      "name": "Gale Blade",
-      "unlock": "Elemental Skill",
-      "description": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching enemies in the direction she aims at, dealing massive Anemo DMG.\nHold\nAt the cost of continued Stamina consumption, Jean can command the whirlwind to pull surrounding enemies towards her front.\n\nDirection can be adjusted.\n\nCharacter is immobile during skill duration.",
+      "name": "Gió Cuộn Kiếm",
+      "unlock": "Kỹ Năng Nguyên Tố",
+      "description": "Hội tụ sức mạnh của gió vô hình lên kiếm, thi triển cơn bão nhỏ, đánh bay địch ở hướng ngắm bắn, gây lượng lớn Sát Thương Nguyên Tô Phong.\nNhấn Giữ\nTiếp tục tiêu hao thể lực để trả giá, tạo lốc xoáy kéo địch và vật thể xung quanh đến trước mặt.\n\Có thể điều chỉnh phương hướng. Trong khi sử dụng kỹ năng không thể di chuyển.",
       "upgrades": [
         {
-          "name": "Skill DMG",
+          "name": "Sát Thương Kỹ Năng",
           "value": "292%"
         },
         {
-          "name": "Stamina Consumption",
+          "name": "Tiêu Hao Thể Lực",
           "value": "20 per second"
         },
         {
-          "name": "Max Duration",
+          "name": "Thời Gian Tối Đa",
           "value": "5s"
         },
         {
-          "name": "CD",
+          "name": "Thời Gian Hồi",
           "value": "6s"
         }
       ],
       "type": "ELEMENTAL_SKILL"
     },
     {
-      "name": "Dandelion Breeze",
-      "unlock": "Elemental Burst",
-      "description": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding enemies and causing Anemo DMG.\n\nAt the same time, she instantly regenerates a large amount of HP for nearby allied units and all party members. HP restored scale off Jean's ATK.\nDandelion Field\n\nContinuously regenerates HP for one ally and imbues them with the Anemo attribute.\nDeals Anemo DMG to enemies entering or exiting the field.\n",
+      "name": "Gió Bồ Công Anh",
+      "unlock": "Kỹ Năng Nộ",
+      "description": "Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây Sát Thương Nguyên Tô Phong.\n\nĐồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.\nVùng Đất Bồ Công Anh\n\nDuy trì hồi phục HP cho nhân vật.\nKhiến nhân vật trong đó tiếp tục chịu ảnh hưởng Nguyên Tô Phong.\nĐối với dịch ra vào khu vực, gây Sát Thương Nguyên Tô Phong.\n",
       "upgrades": [
         {
-          "name": "Elemental Burst DMG",
+          "name": "Sát Thương Bạo Phát",
           "value": "425%"
         },
         {
